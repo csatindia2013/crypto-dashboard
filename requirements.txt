@@ -1,0 +1,6 @@
+dash
+dash-bootstrap-components
+yfinance
+pandas
+openai
+plotly
